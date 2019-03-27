@@ -1,2 +1,0 @@
-user1010:user123:1150:1005:user1010:/home/user1010:/bin/bash
-user1011:user123:1151:1005:user1011:/home/user1011:/bin/bash
