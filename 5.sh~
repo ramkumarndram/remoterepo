@@ -1,3 +1,4 @@
+echo "hellooo ";
 echo "Enter a number : ";
 read n;
 echo "numbers decreasing from $n are : ";
